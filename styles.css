@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin-left: 180px;
+  margin-right: 180px;
+  background-color: teal;
+}
